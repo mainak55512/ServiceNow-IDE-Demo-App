@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="979ea74bc34922108b6c9112b40131d5" sys_domain="global" table="x_692302_test_app_test_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>d05fe3cbc38922108b6c9112b40131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>585fe3cbc38922108b6c9112b40131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_string</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>dc5fe3cbc38922108b6c9112b40131c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>545fe3cbc38922108b6c9112b40131c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_bool</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>d85fe3cbc38922108b6c9112b40131c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_choice</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>505fe3cbc38922108b6c9112b40131c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_ref</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 15:00:08</sys_created_on>
+            <sys_id>d45fe3cbc38922108b6c9112b40131c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_692302_test_app_test_table" sys_domain="global" view="Default view">979ea74bc34922108b6c9112b40131d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 15:00:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_692302_test_app_test_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-26 14:57:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>979ea74bc34922108b6c9112b40131d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_692302_test_app_test_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test App" source="x_692302_test_app">306913cfc30922108b6c9112b4013139</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App">306913cfc30922108b6c9112b4013139</sys_scope>
+            <sys_update_name>sys_ui_section_979ea74bc34922108b6c9112b40131d5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-26 14:57:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
